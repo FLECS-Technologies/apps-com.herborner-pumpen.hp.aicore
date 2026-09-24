@@ -1,10 +1,10 @@
 {
     "$schema": "https://raw.githubusercontent.com/FLECS-Technologies/app-sdk/3.0.0/manifest.schema.json",
     "_schemaVersion": "3.0.0",
-    "app": "com.herborner-pumpen.hp.intelligence",
+    "app": "com.herborner-pumpen.hp.aicore",
     "version": "##VERSION##",
     "revision": "0",
-    "image": "flecs.azurecr.io/com.herborner-pumpen.hp.intelligence",
+    "image": "flecs.azurecr.io/com.herborner-pumpen.hp.aicore",
     "multiInstance": false,
     "editors": [{  "name": "Core Status Viewer",  "port": 9330,  "supportsReverseProxy": true}],
     "env":[
